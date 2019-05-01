@@ -1,0 +1,19 @@
+{
+  "name": "udemy_1",
+  "version": "1.0.0",
+  "description": "Tutorial Refresh for ANGULAR JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chegior/udemy_1.git"
+  },
+  "author": "Chedro Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chegior/udemy_1/issues"
+  },
+  "homepage": "https://github.com/chegior/udemy_1#readme"
+}
